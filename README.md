@@ -12,6 +12,7 @@ Para abrir la consola, o  **CMD**, click derecho en el menú `Inicio`, seleccion
 Escribir `cmd` en la barra de búsqueda y click en `Aceptar`
 
 ## Java
+El juego está escrito en **Java**, para que la consola sea capaz de ejecutarlo debe estar instalado.
 Para comprovar si Java está instalado puedes escribir en consola 
 ~~~
 java -version
