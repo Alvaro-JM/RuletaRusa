@@ -1,5 +1,3 @@
-package pacalcompany.juego_ruletarusa;
-
 import java.util.Random;
 
 public class Revolver {
