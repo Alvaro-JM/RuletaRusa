@@ -7,6 +7,7 @@ El juego continúa hasta que uno de los dos muera o se arruine.
 
 ¡OJO! El tambor solo gira al introducir la bala, así que cada click en el gatillo te acerca más al inevitable final. ¡Retírate antes de que se produzca una catástrofe!
 
+
 ## Descarga de archivos
 Para descargar los archivos desde gitHub, en el enlace del proyecto [RuletaRusa], hacer click en `Code` y seleccionar la opción `Download ZIP`
 
@@ -17,6 +18,7 @@ Para descargar los archivos desde gitHub, en el enlace del proyecto [RuletaRusa]
 Este juego funciona a través de la consola de comandos de windows. 
 Para abrir la consola, o  **CMD**, click derecho en el menú `Inicio`, seleccionar `Ejecutar`.
 Escribir `cmd` en la barra de búsqueda y click en `Aceptar`
+
 
 ## Java
 Para comprovar si Java está instalado puedes escribir en consola 
