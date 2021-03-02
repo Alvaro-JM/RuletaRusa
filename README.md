@@ -72,7 +72,7 @@ En nuestrto turno el juego nos da a elegir entre:
 Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.  
 
 Seleccionaremos **Disparar** para probar suerte.  
-En caso de que la bala esté situada en la posición de disparo está te matará haciéndote perder la vida, y por ende el juego.  
+En caso de que la bala esté situada en la posición de disparo esta te matará haciéndote perder la vida, y por ende el juego.  
 En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante.
 
 ---
