@@ -1,6 +1,3 @@
-
-package pacalcompany.juego_ruletarusa;
-
 public class IA {
     
     static public final String NOMBRE = "Vladimir";
