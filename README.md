@@ -3,6 +3,7 @@ Juego conversacional por consola que simula el enfrentamiento entre dos personas
 Siente la emoción de jugar contra una IA que no tiene (casi) nada que perder.
 Cada ronda pondrás en juego dinero y jugaréis uno tras otro hasta que uno se retire perdiendo el dinero apostado o muera. 
 El juego continúa hasta que uno de los dos muera o se arruine.
+¡OJO! El tambor solo gira al introducir la bala, así que cada click en el gatillo te acerca más al inevitable final. ¡Retírate antes de que se produzca una catástrofe!
 
 ## Descarga de archivos
 Para descargar los archivos desde gitHub, en el enlace del proyecto [RuletaRusa], hacer click en `Code` y seleccionar la opción `Download ZIP`
