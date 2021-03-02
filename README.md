@@ -75,4 +75,5 @@ En caso de que la bala esté situada en la posición de disparo está te matará
 En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante.
 
 ---
-Si ambos siguen vivos y aún les queda dinero una ronda nueva dará comienzo, apostando 100 cada uno y comenzando siempre por el jugador humano.
+Si ambos siguen vivos y aún les queda dinero una ronda nueva dará comienzo, apostando 100 cada uno y comenzando siempre por el jugador humano.  
+¡Espero que te diviertas!
