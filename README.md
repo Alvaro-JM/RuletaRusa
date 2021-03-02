@@ -1,5 +1,6 @@
 # Ruleta Rusa
-Juego conversacional por consola que simula el enfrentamiento entre dos personas (tu y una IA) jugando a la ruleta rusa. 
+Juego conversacional por consola que simula el enfrentamiento entre dos personas jugando a la ruleta rusa. 
+Siente la emoción de jugar contra un ruso que no tiene (casi) nada que perder.
 Cada ronda pondrás en juego dinero y jugaréis uno tras otro hasta que uno se retire perdiendo el dinero apostado o muera. 
 El juego continúa hasta que uno de los dos muera o se arruine.
 
