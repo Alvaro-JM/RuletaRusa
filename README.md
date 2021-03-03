@@ -58,12 +58,12 @@ Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras 
   
   
 Nada más empezar, el juego nos propone una dificultad  
-![](/Imagenes/1.png)  
+
 La cual elegiremos introduciendo el número correspondiente.  
 A continuación nos solicita un nombre de jugador.
 
 Cada ronda comienza mostrando el dinero que dispone cada uno:  
-![](/Imagenes/2.png)    
+  
 
 El jugador humano siempre será el que comience la ronda. El juego nos ofrece dos opciones: 
 
@@ -71,13 +71,13 @@ El jugador humano siempre será el que comience la ronda. El juego nos ofrece do
 2. Disparar
 
 Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.   
-![](/Imagenes/3.png)  
+
 
 Seleccionaremos **Disparar** para probar suerte.  
 En caso de que la bala esté situada en la posición de disparo esta te matará haciéndote perder la vida, y por ende el juego.  
-![](/Imagenes/8.png)  
+
 En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante. 
-![](/Imagenes/9.png)  
+ 
 Vladimir podrá disparar 
 
 ---
