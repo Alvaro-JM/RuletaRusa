@@ -25,7 +25,7 @@ public class IA {
         
         if (dificultad > 0 && (posBala == posDisparo)) {
             dificultad --;
-            System.out.println("Vladimir pasa, ganas 100€");
+            System.out.println("Vladimir pasa, ganas 100 Rupias");
             pasar();
             return false;
         }else{
