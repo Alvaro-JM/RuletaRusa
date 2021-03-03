@@ -43,7 +43,7 @@ public class RuletaRusa {
                     + "\nDinero " + j.NOMBRE + ": " + j.getDinero() +
                     "\nDinero " + IA.NOMBRE + ": " + ia.getDinero()+
                     "\n--------------------------"
-                    + "\nAmbos apostais 100€, y el cilindro gira");
+                    + "\nAmbos apostais 100 Rupias, y el cilindro gira");
             
             r.girarCilindro();
             
@@ -100,7 +100,7 @@ public class RuletaRusa {
         if (j.isVivo()) {
             if (j.getDinero() > 0) {
                 System.out.println("Has ganado " + j.getDinero() +
-                        "€, y mas importante, sigues VIVO");
+                        " Rupias, y mas importante, sigues VIVO");
             }else
                 System.out.println("Te has arruinado, pero aun sigues VIVO");
         }else{
