@@ -1,5 +1,3 @@
-package pacalcompany.ruletarusa;
-
 import java.util.Scanner;
 
 public class RuletaRusa {
