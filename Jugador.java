@@ -1,5 +1,3 @@
-package pacalcompany.ruletarusa;
-
 public class Jugador {
     
     public final String NOMBRE;
