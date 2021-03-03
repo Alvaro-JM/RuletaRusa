@@ -23,7 +23,7 @@ public class Revolver {
         boolean exito = false;
         if (posRealBala == posActualDisparo) {
             System.out.println("MUERTE"
-                    + "\nLa bala estaba en la posición de disparo");
+                    + "\nLa bala estaba en la posicion de disparo");
             exito = true;
         }else{
             System.out.println("Que suerte, la bala no ha sido disparada"
