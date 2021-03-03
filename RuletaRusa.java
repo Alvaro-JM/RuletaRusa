@@ -14,13 +14,13 @@ public class RuletaRusa {
         Scanner scan = new Scanner(System.in);
         
         System.out.println("Bienvenido a la RuletaRusa."
-                + "\nJugará contra un oponente controlado por la máquina."
-                + "\nJugarán con un solo revolver cargado con UNA BALA. "
-                + "La posición de la bala será aleatoria.\n"
+                + "\nVa a jugar contra un oponente controlado por la maquina."
+                + "\nVan a usar un solo revolver cargado con UNA BALA. "
+                + "La posicion de la bala será aleatoria.\n"
                 + "\nSe apuestan 100 Rupias cada uno por RONDA."
-                + "\nSe pasarán el revolver por turnos (empezando por el jugador HUMANO)"
+                + "\nSe van a pasar el revolver por turnos (empezando por el jugador HUMANO)"
                 + "\nhasta que uno de los dos pase o muera."
-                + "\nEn caso de pasar, el contrincante ganará la apuesta y dará comienzo una nueva ronda."
+                + "\nEn caso de pasar, el contrincante gana la apuesta y comienza una nueva ronda."
                 + "\nSiempre puede girar el cilindro para añadir aleatoriedad"
                 + "\n¡SUERTE!");
         
