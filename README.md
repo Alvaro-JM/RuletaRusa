@@ -64,7 +64,7 @@ Nada más empezar, el juego nos propone una dificultad:
 3. Difícil 
 ~~~
 ---
-En nuestrto turno el juego nos da a elegir entre:
+En nuestro turno el juego nos da a elegir entre:
 ~~~
 1. Pasar
 2. Disparar
