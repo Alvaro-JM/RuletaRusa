@@ -58,12 +58,7 @@ Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras 
   
   
 Nada más empezar, el juego nos propone una dificultad:
-~~~
-1. Fácil
-2. Media
-3. Difícil 
-~~~
----
+![](/Imagenes/1.png)
 En nuestro turno el juego nos da a elegir entre:
 ~~~
 1. Pasar
