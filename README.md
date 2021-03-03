@@ -57,21 +57,28 @@ El juego es conversacional, no tiene gráficos ni botones, pero tiene opciones.
 Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras selecciones por teclado.  
   
   
-Nada más empezar, el juego nos propone una dificultad:  
+Nada más empezar, el juego nos propone una dificultad  
 ![](/Imagenes/1.png)  
 La cual elegiremos introduciendo el número correspondiente.  
 A continuación nos solicita un nombre de jugador.
 
-En nuestro turno el juego nos da a elegir entre:
-~~~
+Cada ronda comienza mostrando el dinero que dispone cada uno:  
+![](/Imagenes/2.png)    
+
+El jugador humano siempre será el que comience la ronda. El juego nos ofrece dos opciones: 
+
 1. Pasar
 2. Disparar
-~~~
-Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.  
+
+Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.   
+![](/Imagenes/3.png)  
 
 Seleccionaremos **Disparar** para probar suerte.  
 En caso de que la bala esté situada en la posición de disparo esta te matará haciéndote perder la vida, y por ende el juego.  
-En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante.
+![](/Imagenes/8.png)  
+En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante. 
+![](/Imagenes/9.png)  
+Vladimir podrá disparar 
 
 ---
 Si ambos siguen vivos y aún les queda dinero una ronda nueva dará comienzo, apostando 100 cada uno y comenzando siempre por el jugador humano.  
