@@ -57,8 +57,11 @@ El juego es conversacional, no tiene gráficos ni botones, pero tiene opciones.
 Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras selecciones por teclado.  
   
   
-Nada más empezar, el juego nos propone una dificultad:
-![](/Imagenes/1.png)
+Nada más empezar, el juego nos propone una dificultad:  
+![](/Imagenes/1.png)  
+La cual elegiremos introduciendo el número correspondiente.  
+A continuación nos solicita un nombre de jugador.
+
 En nuestro turno el juego nos da a elegir entre:
 ~~~
 1. Pasar
