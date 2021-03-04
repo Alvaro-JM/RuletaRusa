@@ -22,8 +22,8 @@ IA.java
 
 ## CMD
 Este juego funciona a través de la consola de comandos de windows.  
-Para abrir la consola, o  **CMD**, click derecho en el menú `Inicio`, seleccionar `Ejecutar`.
-Escribir `cmd` en la barra de búsqueda y click en `Aceptar`
+Para abrir la consola, o  **CMD**, click derecho en el menú `Inicio` `Ejecutar`, o bien `Windows + R`, y ejecutar cmd.
+
 
 ## Java
 Para comprovar si Java está instalado puedes escribir en consola 
@@ -43,6 +43,11 @@ programa o archivo por lotes ejecutable.
 ~~~
 
 ## Instalar Java
+El primer paso es descargar el **jdk** de la página oficial de [Oracle] e instalarlo siguiendo las indicaciones.  
+El siguiente paso es poder compilar y ejecutar JAVA desde la consola.
+Para ello debemos ir a las Variables de entorno* en Windows. 
+
+[Oracle]: https://www.oracle.com/es/java/technologies/javase-downloads.html  
 
 ## Compilar
 Para jugar necesitamos compilar los archivos previamente.  
