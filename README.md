@@ -47,7 +47,8 @@ El primer paso es descargar el **jdk** de la página oficial de [Oracle] e insta
 El siguiente paso es poder compilar y ejecutar JAVA desde la consola.
 En `Variables de entorno` dentro de `Propiedades del sistema`
 
-![](/Imagenes/1.png)
+![](/Imagenes/1.png)  
+
 Le damos a `Nueva` en la sección inferior `Variables del sistema` , ponemos la ruta donde está instalado el jdk y le damos un nombre.
 
 ![](/Imagenes/2.png)
