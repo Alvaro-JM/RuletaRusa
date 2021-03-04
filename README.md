@@ -83,11 +83,11 @@ Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras 
   
   
 Nada más empezar, el juego nos propone una dificultad  
-
+~~~
 1. Fácil
 2. Media
 3. Difícil
-
+~~~
 
 La cual elegiremos introduciendo el número correspondiente.  
 A continuación nos solicita un nombre de jugador.
@@ -97,11 +97,11 @@ A continuación nos solicita un nombre de jugador.
 Cada ronda comienza mostrando el dinero que dispone cada uno.  
 
 El jugador humano siempre será el que comience la ronda. El juego nos ofrece dos opciones: 
-
+~~~
 1. Pasar
 2. Disparar
 3. Girar cilindro
-
+~~~
 Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.   
 
 
@@ -112,7 +112,7 @@ Seleccionaremos **Girar cilindro** para añadir aleatoriedad. El cilindro de la 
 
 En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante. 
  
-Vladimir podrá disparar 
+Vladimir podrá dispararse o pasar.
 
 ---
 Si ambos siguen vivos y aún les queda dinero una ronda nueva dará comienzo, apostando 100 cada uno y comenzando siempre por el jugador humano.  
