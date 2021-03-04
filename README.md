@@ -92,19 +92,23 @@ Nada más empezar, el juego nos propone una dificultad
 La cual elegiremos introduciendo el número correspondiente.  
 A continuación nos solicita un nombre de jugador.
 
-Cada ronda comienza mostrando el dinero que dispone cada uno:  
-  
+---
+
+Cada ronda comienza mostrando el dinero que dispone cada uno.  
 
 El jugador humano siempre será el que comience la ronda. El juego nos ofrece dos opciones: 
 
 1. Pasar
 2. Disparar
+3. Girar cilindro
 
 Seleccionaremos **Pasar** para retirarnos de esta ronda. Perderemos el dinero apostado (100) pero conservaremos la vida.   
 
 
 Seleccionaremos **Disparar** para probar suerte.  
 En caso de que la bala esté situada en la posición de disparo esta te matará haciéndote perder la vida, y por ende el juego.  
+
+Seleccionaremos **Girar cilindro** para añadir aleatoriedad. El cilindro de la pistola gira.
 
 En caso de que la bala no sea disparada, el tambor se moverá una posición (acercando la bala una posición a la fatalidad) y el turno pasará al contrincante. 
  
