@@ -26,7 +26,7 @@ Para abrir la consola, o  **CMD**, click derecho en el menú `Inicio` `Ejecutar`
 
 
 ## Java
-Para comprovar si Java está instalado puedes escribir en consola 
+Para comprovar si Java está instalado puedes escribir en consola: 
 ~~~
 java -version
 ~~~
@@ -82,7 +82,7 @@ El juego es conversacional, no tiene gráficos ni botones, pero tiene opciones.
 Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras selecciones por teclado.  
   
   
-Nada más empezar, el juego nos propone una dificultad  
+Nada más empezar, el juego nos propone una dificultad:  
 ~~~
 1. Fácil
 2. Media
