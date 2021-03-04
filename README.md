@@ -84,6 +84,11 @@ Funciona leyendo el texto el que nos imprime la pantalla y escribiendo nuestras 
   
 Nada más empezar, el juego nos propone una dificultad  
 
+1. Fácil
+2. Media
+3. Difícil
+
+
 La cual elegiremos introduciendo el número correspondiente.  
 A continuación nos solicita un nombre de jugador.
 
