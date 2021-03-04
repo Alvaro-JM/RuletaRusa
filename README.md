@@ -43,24 +43,21 @@ programa o archivo por lotes ejecutable.
 ~~~
 
 ## Instalar Java
-
-
-## Instalar Java
 El primer paso es descargar el **jdk** de la página oficial de [Oracle] e instalarlo siguiendo las indicaciones.  
 El siguiente paso es poder compilar y ejecutar JAVA desde la consola.
 En `Variables de entorno` dentro de `Propiedades del sistema`
 
-![](/Imagenes/1.png
+![](/Imagenes/1.png)
 Le damos a `Nueva` en la sección inferior `Variables del sistema` , ponemos la ruta donde está instalado el jdk y le damos un nombre.
 
-![](/Imagenes/2.png
+![](/Imagenes/2.png)
 
 En la parte superior `Variables de usuario` click en el botón  `Editar` .  
 Añadimos uno `Nuevo` dándole el nombre que le pusimos entre `%` y seguido de `\bin\`. Por ejemplo:
 ~~~
 %JAVA%\bin\
 ~~~
-![](/Imagenes/3.png
+![](/Imagenes/3.png)
 
 
 [Oracle]: https://www.oracle.com/es/java/technologies/javase-downloads.html
