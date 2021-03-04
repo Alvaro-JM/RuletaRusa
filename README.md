@@ -56,7 +56,7 @@ Le damos a `Nueva` en la sección inferior `Variables del sistema` , ponemos la 
 En la parte superior `Variables de usuario` click en el botón  `Editar` .  
 Añadimos uno `Nuevo` dándole el nombre que le pusimos entre `%` y seguido de `\bin\`. Por ejemplo:
 ~~~
-%JAVA%\bin\
+%JAVA_HOME%\bin\
 ~~~
 ![](/Imagenes/3.png)
 
